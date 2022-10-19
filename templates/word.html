@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Victionary</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <!-- Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="bg-dark" style="font-size:1.5rem; font-family: 'Stint Ultra Condensed', cursive; letter-spacing: 1.5px;">
+    <!-- Masthead-->
+    <div class="row justify-content-center ">
+        <div class="col-xl-6 col-md-6 col-sm-9">
+            <div class="text-center text-white">
+                <!-- Page heading-->
+                <h1 class="mb-4 mt-5">In pursuit of meaning?</h1>
+                <!-- Signup form-->
+                <form action="word">
+                    <div class="input-group input-group-lg">
+                        <input class="form-control" name="search" type="text" placeholder="Enter your word..."
+                            aria-label="Enter your word..." aria-describedby="button-submit" />
+                        <button class="btn btn-primary" id="button-submit" type="submit">Search!</button>
+                    </div>
+                </form>
+
+                <div class="d-flex justify-content-between">
+                    <div class="card bg-dark border-primary mt-5" style="width: 15rem;">
+                        <div class="card-body">
+                            <h5 class="card-title text-success">Synonyms</h5>
+                            <p class="card-text">{{synonyms}}</p>
+                        </div>
+                    </div>
+                    <div class="card bg-dark border-primary mt-5" style="width: 15rem;">
+                        <div class="card-body">
+                            <h5 class="card-title text-danger">Antonyms</h5>
+                            <p class="card-text">
+                                {{antonyms}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
