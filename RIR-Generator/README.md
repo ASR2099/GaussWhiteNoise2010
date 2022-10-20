@@ -52,36 +52,36 @@ whitenoise==5.2.0
 
 
 
-BÁÉÇáÒÁ¹ÈÆÝ\Ó½É«µÃÂÒÕZàCÉãÃðÒ¹ÊÀ£ºÒ×É¡¾¸eÖªÎ×ÔÞÐÎ´²½ðÌÁêÃ»®Ó÷³ªÊòÀëºÅ¢àÀåÓ×ÅÊ´ºÀà°æÍêÖèÏ·°ß×ñÆó¸ÜÑÙÑæÂ³ÄÑÉÃ×ªóÃ¾Åì­×Û¸µ¿Ì¹ÉÉæÑ×É³×æÈ¡¼ö¼àÛà½»Ì³Óï¸öÈØwº®¹ÄÇúv¾ÆÑÀ°±¾§À¨%Æ§ÅÐÓóÑ´¸ÆÔ«ÒñãÉ±×È½¨£ÃôÇ¶Ç¿ÃñÂï·ô°û£Á¾äëþÀÕÅÖ³Å½¢´©¹µÅÁ¦ò·¬°ÕRÃØ±à°¼¿ï¶½º¥äÂ½®ÁÞ°ÙÃÇº­ÐäÁººº´ÉÇ½Â±À¦²´ÍÚÑ§¶¶°ÝÈÜÌèÃãÈÉµØÍ°¿ª±ÏÓ¡ÓÝÖ§Ì«¾ÙÃËÐµ°ÎÓßÔ¢¼çÑ«¹ÑÅèÏë°¤±Î²æÎÒÌù¿ÜÀ©¤Zµæ¥Jµ±·¨ÊÍ°§ÖÚÄþ¾ë×ÁÃ¯Áè»ÔÒóïÓµ÷Ò¢¶ú×¶¿¨¹ù¿´ÂçÀ¸Á®³¶Ë°ÁÁÎDºö°ÈôßÐÖµêÀÎÔ¸ÅË¼øÈÌºì·ÜÒÔìÑË²´ÄµúÊ¦½¦´ËÂÊÒý³ÏÃÓ¤RÕ³ËÉã©¹þÑº±öÌ¹³ÛÐÈÕæ²¼»Õ½¡È±Ì§½±ÓþºéÖýÏ¿»Ê¼¨çÃË¢Òì½ÐÉÖË¿ËÍÁ¯ÓÊÁê×£Í¯µ®¤ ÇÐ·ûÃæêÉÖÂh·¥ÅïÎÞ°ËÏìÅÜ¶´¶íÌÈ½²¿÷¸³´ï¿ÎÆæÃµ·«´û¹ÒÁõ¿½Ôó°ÍÏÞì¾ÓëÃüË¼°ÑÆÃ½ãËõ¾°Æ¶ÐûËêÍ²Èã°½ÓÀÒÎ³óÆäÁí¿¸Èü¹àÏÒ±é»½Ï´¼Ò´ÛÕ¾Æõå°³éÔ»»ñÓõÂÃ7³µÕªÉÏÔØ)ÎÀÆø¹·ÇñÇ¡Ë¹¹¥ÒõÔñ¼»Éòºêâý¶·/³¥ÇþÉÜçùµ£ÍÏ»ö¨®ÀÃ¹¦Ùø×·¿åÆ²¼Æ³ÔÁËÔ²²¿·£µâ»¬¿ºÊÐ¶ª±´°ÚÆðËÕéªÆ¯ôà·É¾Ð¶ùL¨¹Â¶ÄâÍàµ¨ÒâÐ¾Å·ÍÐáÈ¸¥ÕëÕ×ÑØÄÜº¦Ã¨»ãºÄ×Å»·Ó±Êø½þÏúÉèÐç±É»¹ÏÐÓîÛ¢²ÂkÈÚÊ«ÑöÍ·¿ÍÐðÃóÃÈÅÅ²ÕÌ¯¦×ÖÊ¼ôÄáÇðË³¿ì°ò½¨æû³çÖÕº³¼§ÑøÄ¶×³Î¯É´$·ï½üºÎÂ¬µþí¿ÖÇ¶°ÊÜÍ³±äÔË¼¶´´ÓùÂËÏÊÐáÌÔºÀËá³ðÁ¾¾àÈÅõ¹¸è´¯Ô½¦Ø¹ÞÖ÷¼²Í»Øë½­Æ¸÷ë°¢ÔÓÔÙÛ¬ºñÖ¬ËðÉä°ê¸ðÑé³Ë|ËÆ¶èÒù´Ì·íÐí¼´£«´í¸¿_Ã°ÉüÐÛµñs¹¶ºüÃëÃ©ÈôÌþÍìl½ØÕ©Ò½è°ÅÔ¿éõ¥ÞÉÛ£Î¶ìÒ´÷¢ÙÐ¹Ç±ÒÄÑÝÈÍÄØËæÇ©ËÎÊ§°¸Ìõ½ñÏ£²¡ºÂ»±Ñò±æÓûÐ÷´®ôÃ°éÓ¨¶ÀÍ£¿ÖÊá±âÄÃ±ùÇØÖíuÉß£®»ì¹ãËÙËé°²Ù¹Ç³ÌüÇ×È»Ê¹²»ÂòÅ¶ÏôÄ§ËÄ°ÐÄÇÑ¸½ÔÍâÒúÀè¼û±È¸æ´øË¯³¹·ÑÎéÒÒ¾ö×±Í¥½ûÍ´Ñ½ÉÕíÚÅÆ½×·ËÀÏÆÖ·²·³µôÏîÀÈÕ²¨ªì¶ÊÓ±½Ô~ÊØÅÌÐ£Ú¬ËØ±Úìø¸´±ß¿§¡æ¡¡¾£ÔúÅ×°üÒÕÎ»Ë«ÇÕÔùÃª1ÃçëøÀ³°ñÃ±Èá2°µ~¿­Í¢¡ô¹²»û¶Ö¹ßÇÙ°×å£Ã¤²£Ê®µÇÎýÏºÀÛ½ªºý²¹Ñ¯Ø½ÃÒ¾¡ÉçÉÂÒ²'ÇÀÌðÍÆÊóÖÙµÒ¾µÅ©·´Ìâ¼£³¡ËÌ¼¤È¨×¢ÕÚÄÁ½ÅËÐ¶ÅÎíJÊ½Óý¸ÑÔ¾À¬ÅìÊð³§·ò°ì³ÁÓÇ¶áÒû±Ê¸àÔ¿¾«¾ò·ëèïÊýºÁÍÄ×ø¸îÎ³Ëúï¤ÐÍ²ÎÆ«Áä±¶ÐÇ½÷·¸á¯ä¯ÌæÃÉ¹ïÇç´ÊÎµ¾²·âÈÎÓÚ¼ÁÔÀC±°ÊâË°¹ûÒòÙJÒÉºÍ·ãØ·±êÊ¿¸ù¿îV´ÙÀ²É­¥S°õØ¿ÑªÛºµ²¹¨´õÎï×ó¹ºÔÏxÁìÖÝ×ÔÉùâßÎ°ÌÖÀ±¡¾½èÐ¦Èç°ó.Äî³Ù¿Â¿ÆºÏÓð»¦ÁÖÇÑ¼Ø±§ÓôÒÂÃî¸¦ÃÛ½Û²ÖÂú=ËþÄ±ÃÔÓá½íàç»õ²ÝÔ£ÏÔ¸ê·ìá·³¼ÆôöÎ¶õ»ÛÆÊ(³ëÁÙ²ú²¢ÐÑÔøÍõÓú¹Ú¼Ö¾ã¡°±«Ï«ÆÑÔÚÔüµã°ÖÒ¥¼Ã³Ì¹¬ÒíÑ£Ä¨ÖøØÇÍ××§¡­Á£ºÉ¹§ÎÆ·õÈû±±ÎÖË¸¸Ú¸£½çÆÁ»ä×âÉ¾Ìï	×¹¶ºê»±å¶Ï¨À¼ðÌÞÓÌºú°Ó±áµÝÊ¨À«ÊÒµ×Ê±éâ»ôOÔÕÇâàSÀ®À¥Â¥Ì²ÑÇÀñÏØ¹æÕ­¸Ë¼Ì×åºË°¡Êô-¤O¹¹Ò¦½ÁÄÂÂþÆòÇ÷Ã¬ÍÃÔ³£»Ô·²¨²ÆÊÏ¶­¹¼Ã´²¶ÂÁ£üÜ°ÂÅÐþKÖÆ¸²åÖ¶«¨¤Òß¿ÝÒÑÓèÍîÈÏµ­öïÐÕÄàÆÀ»ïÛÚãÆÏ¸¼¥hAÎÈ¹å½´Ñ°ÕÕ+»ª¶ÙäÖò½ÕË¡³³«»¯ÊõÄ°ÐèÄûÍûÂ©´ÅÐé¢ÝÆÂ´¾ÂÞÀî¶îÀý·çÉ×»¢ÏÌÈÝ²Ð°¦ÖÁ°«Æ÷µÞ¹ä³õÓñ¤gäå·ä±Ä½«Ë¾¶¨ÔöFÀÅÊÞÊÙÍ¿ÌØ¶ÔÑ¡]¦Á¡¶¼ò¡ë±»ÞÄ°ô¹´Ó¦½ÓàÐ·¶Í¨»áÄô½ÏÇ¸»ÓºãÒë´ÕÒ°°Ì·¢ÂÖÐñÆ¤ÃÚ´ÖÎåqÚSºÃÌ×É¸µªÔ¬ÔÝÖÖ¾Ï²¬Æ£Æµ¸®ÕÂºòÔÎ¼±¼ÛÄ²¶ä½õË§Òµ>ÈßìèÓÂ¸ã¼âÊÔÄ³U×®¾õÇ¨¹áîªÆÌÊÅÎª±Í¸Âµõ²§½ú¹ó·ÖÂðìÚÁ´·¹¾ÍÁ·ºõ»³ÕÜ¼Ý¿çÊú×ï¿ÁNË¬É¨ôdÏþÓÃ°èêË¹Ï¤ŸÍª¾ÊÕ§ÍÁ»ÝÆ­Ð¤ÚÓÑ©¼ýÙìÒÇ³âÖÐ»ùÏó,¹è¾úÓ¿µ«ÉÔÌ·ÈëÅåæÃÍ¼ËíµÍ¿à¸¨¢ÚÍÑíùËïÓÏÌ°½ô½àÅ­t¾û±£ÈÄ¾¿Ñû³Ç²ô»¨×ÓÏêÑÕÆÚ²ü°çáéºäÆ®À¼Ê°Ó­ÍþÆ¾Ä©Ô©ÏÜ¶ø´çÏÎÒøÓâÂ¡»æÕç·±¸øÐÂÎÂÊéÑáÏò½ÜÇåÎó·Ùô¥¹ñÓ¢½ì&É¥¼Î*½µÇ§Ñ¦ÂØÖÎÑÔ°ÂÄ·Ó¹Á¶²àÏßÌôÎì¿¿´¡²ÁÕ°Ñü½ÝìiµÏ»µ¼¼{Êª½Ì´ý·ÛÕÛ¡ªµüÐ¡Ã¦×ËÃ®¶þÔÆ³Ê²Ô¹ìÓµµóÑïÀÇ¼÷Ñô¼î¡£ÎÛÐ¬Ð¯³£ïú·µ·ð×´ÄËÇà¸ßÐ§Á×¦¸Î´µî¼¦¿Ûâ§Ã½è¹Ö´º°EË­Á³³ÐÌ¨ÒÆÁªÊÖÎ¢Ä«×ÊÃ¾¤SÈÃÇü³­Íý±ÆÎ£±­½òÏä¹»×ÚÆºÂ¢Â½ÔÄ¶ÎÃùÔõ¤aÃ×Ü÷½£ñî²©³ÃæáÂüµÁ³´ÃÀµç¤…ÖúÄ£îÑ³²µÈÀÁÆÞ·ÃÐò°Ø¶Üéø±ØÉÀÆØÉËÎðïØ°´8³¸ê¡¸ñ´îÏàÇï·¼Ü¿Ûª×¨´ó¿â±¸¼Ð¡ÁÀäÃÎÌÕÌÚÖ¡¼ºÊÛÄøÍæÎÌÒº¶×ÑàÄðµÆ»÷Ð­¨«±õÒà²É»¶¼ìÆÆÏÂ°ø¼ùÚÛÓöÐÏÊÊÔò·ùæÂ×Öº«ÇøÇ¦³æÕ½Îº³±·¦ÎöµÛË÷ÅáÄú¶¤³ßÊÚÖ»Ðâiß÷ËüÏÆ¼¯ºÛÅÑ¾ÀÉÆÕó×ÙÆ·ÑîÔÂÈ®ÐÐÍ¹òò»ú»ºÖ°¶¦ÒÚÅÂ¾ùÇÚÕ»°·Í½Õð¡·ÀÂÃúÐîºÜõ£ÐøÃº´°Åä²Ì×°Ç°²Ä¼è¨­Á¬Ù¡Á¦Æ×ÏµÌÆÊ³ÐãSX×ãÍÀ¦æG´ò¥[ºÐÒé¾ç×ôÐ´ÈýÒæ¹Ø´ØÐÜÂæÃâñãÔÖë¿×éò§³È¿íØ°ÄÄ±ðÆª¶¬ÇôÂÇäð½¹ÖùÔ°:Ô¯ÁÐ³ä¸ÕçÑÐË×÷¿Ó²è¸ü¸ï´ÇÁÒ±®ÓÖÀÝÍÅÍßÂ×ÈÈÐÄÇ¬¿×ÎüÀöÆ½ÈðÍ¸ÈÀËß¸¶[ÐÙî§µºÊ¼Ñ­Ê´Ó©µÚÃ÷·þÅàÊ¶¹«³ÖÑÓ¼®½¶·üº¹×­Ôµ½Þ³ÄÍüÍô¸Ö£¾Õã²Ë½éÍéÂ¼Ðà±ÒÒü³°ìñÐÅÃû³¤ÎøÂ¦¾Ýì¯Ä½ÈÙÎÚ×½Í¾Ñ¶ÏÝµÜ¼¬±¯£ØµäÕÆÎäßº×ÀÔ¹Q¿¶ÉõºîÚäÉÍÌÉÒÌ´¬¼Ù¹­ÏéÍèÃ·Ò«Ö¦#³ÂÒÖÓºÉÐÎÕºâÁ¼Óéï§ÕÐ¡¸¶¹½Õ£¡²ÊÉØÌíµ¶ÉµÐÞ°á¶¯Í¶ÕÙÇÒµÀÖ±³Í¤uÎþ´ë´¦ÕÊÓÉÓÅÓ³×ÜÏõ¹úÇî¾­Ä¦¾³Àæ»ØcÏ¢3¸åÅùÉ÷Û³µÔÐ»¾ºÅÓÔçÕò²ª³åê°§°ÍÍ<ÔÔ×ßÑÎÕ¤¼×Öñ»»Ö¹²ñÁéÖ«¹±Ôâ³ô¿ö»ÚÑù»ê¼õÃéÎ¤ÄªÏñ³àÓÍµ¾ ¸½Èî¼æéðÁô¾üÀ´ÄêÏÛÂÈÖÜ¸¡¾¥Ì¸Å¼²Ï·ßÕí²ðÔìµßËÜ×ÐÖðÉý¹Ì¶÷ÔÊåÌÈ¾Å®ÀÐóÎÔ±ÎñÏ¶ÂßÂÔÂé°äÕÞ»§ÉÛÚóÕÒ´¹Ï÷×¥¿¢¿òÂíIÔº¼Ä²·Éê·î±ªð¤Í¦±û¸çÃÍØ²ÂÚ¶©ÑÖ¸ÙÓíÂä×ìy½ºÄ¿º¼ÇÉ¥EÐÀÓÈÒ©ÃèÏ¡»î°Àåµ^9M·Ý´üéóÆÈÔ¶·ÅaÆî³ÑÂÀ¿ØæÚ¶ÑµÌ¶Ûd½ù¹Û·ÄÁù¿ÞÚûÖØÍÂW¿ÏºÕ°ãºèØ­Ê¬Îã·½½ÚÀïÑÍãÂÀô±ýÐÌ¸»Ëå·Ç½â±©¶¼ÒÐµÂÒÝ°ï½øÉ¢ÑÅéÒÐù¸ÇµÖÊ·Íå¹ÕÊ©º£ÃÜ¤^°å½Í³¬æç»Æ¦ÂÎçÖ¾ÎÔÌ­¦ÌÔ¤Î¬³øÏÄêØÎõ²âÐ¿¶¡ÎÅÁ¸¡¯ÏÕÂÛ±ÜÕ¼¹ÀÅîÖ¼Ï²µÓ`µ©º±Åó¹Ëè³Áú³½ÎâÄñìõèÌÊÆÏ©¡²ËÀÆúÓ¯ÌÒÊ¯ÊÂ¸¾Öá¾åÍµÊ¡¿á·ºÎ²Ù¦¶ÁÅÝ5ÁÓ±¢ÖµÄ¬ÊæÏ§¤cåÊ±ÛËûÈ«ÇèÉÁ¾ªÂÄ¿ä×Ç×É³¿Ô¡Õ¹»ý÷èÈÕ£¯;ÄÔ²áµ¼¸ÛÍú¢òÉþ¡¹±ÕÊµ·ÐÅÉ±¬ÒåÂë±¨ÈõÏûâ×·Ï×ÝÏÖ¶®¸ôÊèÁµ¿ýÉ½À¶Ë©×¼ËùÖÓ¸É¾Ë·»ÇæÜÇ¼ÜÍùìÅº¢Í­Å£×Ï"Ëý·ÊÕÅÈê¿ËËÞÏÁÈåÀ×£¨è´Ö®ÁÔ²ì´ßÁ½Ù©P¼ÑÇ¹Û­ÉóÌÝ¥jÑ±»°µµæä¹¸±øÂôÓà·æß´×îÐÔÔ´Æ»ÔÒÇÇ¡«¿ã¾»Ð³ÓØÒÙÑËË¶Ö½¸±°îòþÎ§´Ï´³»ÙÏËÅúÑ·¹Ù6ÂýÈÖÕÔÉñÒþÂê¡ã¼ÇÃÏ£¬¶ÂÃ³Á¥ÆÛÖüµ°ÀßÓªÂ»Ë®Ôà¾ß°¬Âå£ÂÐ©°®bÓ¥Ë½µ´ëæºáÏ¯ÕßÊïÀ§Õ¦·ø²ÙºÚ¶È¹¢ÕñÌøÎ½ÜßÀÍ±³ºóµÄÊ¾Çé©}½Ö»¼Á§ÕÏºç¹âÌáö¨z·¿Èº°É¶³¿ÚÏ°Æ¬¾ÛÒäÆáÀ¹µÙÊöÐ²Æû¹Ç¾ÕÅ¯ºþÐ¸ÊË²Üà¯fÔëÅçTÔ¼ÁãÉìËã¿¯çÁ¹ÅÇëµ¥ËÁ£¿Ò»½ï¸÷ÁÏÂèêÌö¦°¶¾±¶ÌôËÇóÈíÌÓ²­¹ÃÎ©Áîî£ÎúõðÉ£È·À¡×ÈÑÐ·ÔÒÅ±íÁ«¶£°ýÌÃÒçÏ¦Ø¤pÓê¶àÆå•N¹Ê¿ñ?ÁÑÍò¹ð¤QÁ¿ÝÄÕ¥»´È¯ÐÒÓãËµÅªÏåÈ¦½öË×Ç®¾ø²×!ÁÁÔÁ·®×¡Ã¿Ç»Ì½°ºÈÆÆ¥Íø²¥ÍöÈâÕ÷º»´¨ÎÝñ¼ÄãÅÄ¢ÛÇìÄÉ×¯Î¥Ð¥¼á´¿Ò®È¤¸ýÃÅÖ²Ë´Ì¼»¸ãÐÈªæÇ¾¢·ö¶ãH¹£ÄÏ»ÒÏãÐ¶ÍÈÅÈÖ£¢Ü¹ÂÉ¶ÑÌºëÅûÌúÃ«¾èÈ¼ËøÖþÁÚÎÊÉí¾´Àû¹ø¨§ÀÉÄ¥¾ý»ðÇýµ³Õû·è¹Î}Äß¾®´Ó·Ò³ýÍí°ÜºØ·ñ¿°ÎÉ¡¿º¬¹öÊå²Ã´ðÃÖ·áÊ¥î÷Õâ±¦¼¾ÔÈ±ó¾©¶Æ´å»òÆ¼ÀËÆù´úöÄÈÔ¾¹ÐÁ¶ì¾ØËäÌÀj¾þÈ÷¾¯ÕÑ³¦ÇÅÌî4¨³@¼½ÁåãÌÅô0É±²Å±¤ÅÀÕÇÉÙ°àÉî±Ç·×½ÒÉÌr·ÂËàÅ¬»óÚùÖ¤¾Öö¤Å¾¼þÑµ¸¯ÍË×¬ÕÉÌý¸ûî×Ï×´¢îÜÆßÁ¢ÖÈÍ¡¶¥çêÅµ²®±¾¼­ÈË¼ÍË¥ä­Î÷»Ö¹ÜÑÛÝÁ¼ÓÃÊÕùÃ§³É¿µÝ·µø×ðÎòÕôÒ¶Æë×¤°ÏÂ£¿¹¡¢ÍØ³©Áá¿ó¹©Ä¼ÊäÎÑ¸Åºô¶¾Ã»Ùçµ¹YºÓÍäÇÖ£­ÂÉÁ÷¤V¿ÕÖï»­¹é¾íÑëµ¡×ù°Ä²Íµ½ÙÜÊ÷³¯µË×ö¶ûÄ¤´¼ÓåÑÏ±¥×²Ô¨Å¥ÐóÇÃÎ¨²å´é¼üãÚÐ¢ÖÒ¤Ø¢¼°¼³ÂÌÑÒ²¦¸¸Ê×êÚÐü±ã³þÅöÏí½¯ñÒ·åáÛÄ¸¨¢¶ÓÓÒ×¿·À´ÈÀúÖîÆþ¹®¹íÏÅ¼¸°ÔÀó²½ÒôÂóÓ²¡±½ÇÍ¬ÊÕÓÐÈÊmÊÄ´Î£©ÖìÁ¨ËÈÈÐÅíÓ®ãå¾ÉÐ½¦È¸Ð°­¼ÈÇ·Öæ¤yÍÝÀµ¡ÆÒËÎÄÖ·½¥ëßÂö³ÆíµÀÀÖÍÉú½ä¥T¼Ê¹Ýµ¯¸ú´ÂÆìÄæÔ­ÄÍ¹ý°Ç¿³ÖÞÉáÁÆÐë¸ºÕ¶Ò¾°ëËÑð¢ÍÞÊ£··å«¸Ã¾¶¡Ê£¤ÉøÄ¾ZÕþÖÃ³ûÊ²ÑõÓÎ¡úÀøÆ´»ÂÎ¾ÑÚÃ¼¹ÖÏçØáºÞÔª¿¼´Þ³öÀÊÑ¹Ö¥²ß´½Èó¾Ã¢Þå§nÔðÀ­·­oÊÇÓ°²ýÊìÒ³·úÎô¸ÄØÔÁ»±ÙÄÚ´æµÐÁÄÆ¿ÓÑÃÑÊñÉ¼Ó¾ÑóÄ»²ãÊ¤gÈ´Ò÷³·ØðÔ×Â·¡¤¾È¸Ê¼ª¾ÓÂõ¼¡ÌåËÇÌì¿±ÄÐ¼äÆÕ¼«¿®ÏÍ×àÓ«¸ÏÝþÐìÊàÑ»ÀÖÌ©ÒÀÖ¸Éàº½×èÏªÕ¿Áò±¡êÂÏð¹¤ÒªÞq¸þÚ¾ÕýÊ¸´¥Àí¿Å»éÙ÷Ñ¨»Ä¨©áÔ²ØÁøÔÃÖ¯¶ñ±Ëï®ÑÜ²éÀ÷Ì¿¶¸»¤Ê¢ì¢ÖàÊ»È¥È©Ó£´à³Ø´ÔÇòÓò¾ÞÒ±¿Éç÷¢ßßÙÞËÄÒãÛÏÈÐý»¥Ì¬²î½á²û×Þ¾¤º¯´«
+
 
 
 # RIR-Generator
 
-¼Ó»ìÏì´úÂë£¬±àÒëºó¿ÉÔÚpython3»·¾³ÏÂÊ¹ÓÃ
+åŠ æ··å“ä»£ç ï¼Œç¼–è¯‘åŽå¯åœ¨python3çŽ¯å¢ƒä¸‹ä½¿ç”¨
 
-## »·¾³ÅäÖÃ
+## çŽ¯å¢ƒé…ç½®
 
-ÒªÔÚpython3µÄ»·¾³ÏÂ½øÐÐ£¬setup.pyÐèÒªÏàÓ¦µÄÔËÐÐ»·¾³
+è¦åœ¨python3çš„çŽ¯å¢ƒä¸‹è¿›è¡Œï¼Œsetup.pyéœ€è¦ç›¸åº”çš„è¿è¡ŒçŽ¯å¢ƒ
 
 ```
 $ pip install -r requirements.txt
 ```
 
-## ±àÒë
+## ç¼–è¯‘
 
 ```
 $ make
 ```
 
-`make`³É¹¦ºó»áÉú³É`librirgen.so`, `pyrirgen.cpp`, `rirgen.o`, `pyrirgen.cpython-35m-x86_64-linux-gnu.so`ËÄ¸öÎÄ¼þ£¬ÒÔ¼°Ò»¸öÎÄ¼þ¼Ð`build`¡£Êµ¼ÊÊ¹ÓÃÖÐ±£Áô`librirgen.so`ºÍ`pyrirgen.cpython-35m-x86_64-linux-gnu.so`¼´¿É¡£
+`make`æˆåŠŸåŽä¼šç”Ÿæˆ`librirgen.so`, `pyrirgen.cpp`, `rirgen.o`, `pyrirgen.cpython-35m-x86_64-linux-gnu.so`å››ä¸ªæ–‡ä»¶ï¼Œä»¥åŠä¸€ä¸ªæ–‡ä»¶å¤¹`build`ã€‚å®žé™…ä½¿ç”¨ä¸­ä¿ç•™`librirgen.so`å’Œ`pyrirgen.cpython-35m-x86_64-linux-gnu.so`å³å¯ã€‚
 
-Ê¹ÓÃpython¼ÓÔØÊ±£¬Èç¹û³öÏÖÕÒ²»µ½`.so`¿âµÄÇé¿ö£¬ÐèÒª½«Éú³ÉµÄsoÎÄ¼þµÄÂ·¾¶Ìí¼Óµ½»·¾³±äÁ¿£¬±ÈÈç:
+ä½¿ç”¨pythonåŠ è½½æ—¶ï¼Œå¦‚æžœå‡ºçŽ°æ‰¾ä¸åˆ°`.so`åº“çš„æƒ…å†µï¼Œéœ€è¦å°†ç”Ÿæˆçš„soæ–‡ä»¶çš„è·¯å¾„æ·»åŠ åˆ°çŽ¯å¢ƒå˜é‡ï¼Œæ¯”å¦‚:
 
 ```
 $ export LD_LIBRARY_PATH=/*/*/*/RIR-Generator:$LD_LIBRARY_PATH
 ```
 
 
-²Î¿¼£º
+å‚è€ƒï¼š
 - [RIR-Generator](https://github.com/ehabets/RIR-Generator/tree/5eb70f066b74ff18c2be61c97e8e666f8492c149)
 - [py-RIR-Generator](https://github.com/srikanthrajch/py-RIR-Generator)
